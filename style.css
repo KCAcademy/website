@@ -1,3 +1,17 @@
-.container {
-  border
+h1 {
+  padding-left: 10px;
+  padding-bottom: 50px;
+}
+
+h5 {
+  padding-bottom: 10px;
+}
+
+.icon {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+#shortReviews {
+  text-align: center;
 }

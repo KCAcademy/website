@@ -12,10 +12,6 @@ h5 {
   max-height: 100px;
 }
 
-#shortReviews {
-  text-align: center;
-}
-
 .img-wrapper {
   position: relative;
 }
@@ -28,7 +24,7 @@ h5 {
 
 .img-overlay {
   position: absolute;
-  top: 80%;
+  top: 70%;
   bottom: 0;
   left: 0;
   right: 0;
@@ -38,7 +34,7 @@ h5 {
 .text-overlay{
   position: absolute;
   display: block;
-  top: 10%;
+  top: 5%;
   bottom: 0;
   right: 0;
   left: 0;
@@ -51,11 +47,24 @@ h5 {
 }
 
 .btn {
-  width: 10%;
-  height: 60%;
+  width: 20%;
+  height: 50%;
   background-color: #F33;
 }
 
 .btn:hover{
   background-color: grey;
+}
+
+.portrait {
+  width: 50%;
+  height: 100%;
+}
+
+#short-reviews {
+  text-align: center;
+}
+
+#about-us {
+  position: static;
 }

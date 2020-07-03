@@ -64,7 +64,7 @@ h5 {
 
 .portrait {
   width: 50%;
-  height: 100%;
+  height: auto;
 }
 
 #short-reviews {
